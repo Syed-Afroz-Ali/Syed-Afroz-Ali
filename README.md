@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syed-Afroz-Ali
 - 👀 I’m interested in Web Development and new Technologies
-- 🌱 I’m currently learning Node js
+- 🌱 I’m currently learning React js
 - 💞️ 
 - 📫 
 
